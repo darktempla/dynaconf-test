@@ -1,0 +1,5 @@
+[default]
+ACTIVE_ENV = "default"
+
+[test]
+ACTIVE_ENV = "testing"
